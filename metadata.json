@@ -1,0 +1,8 @@
+{
+  "name": "  BoundBuy AI",
+  "description": "An AI purchasing agent that stays within your rules. Set buying boundaries, let AI source and compare suppliers, generate cryptographic Purchase Pacts, and pay securely via PayPal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
